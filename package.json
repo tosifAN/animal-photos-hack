@@ -1,0 +1,22 @@
+{
+  "name": "animal-photos-hack",
+  "version": "1.0.0",
+  "description": "this is main package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tosifAN/animal-photos-hack.git"
+  },
+  "author": "Tosif Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tosifAN/animal-photos-hack/issues"
+  },
+  "homepage": "https://github.com/tosifAN/animal-photos-hack#readme",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
